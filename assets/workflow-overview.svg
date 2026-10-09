@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430">
+<rect width="1100" height="430" rx="18" fill="#141922"/>
+<g font-family="Arial,sans-serif" fill="#e8edf6"><text x="38" y="54" font-size="28" font-weight="bold">Maya Graph Tools for Blender</text><text x="38" y="84" font-size="15" fill="#9caac0">Workflow overview · illustration</text></g>
+<rect x="38" y="110" width="245" height="258" rx="9" fill="#242c39"/>
+<g font-family="Arial,sans-serif" font-size="15" fill="#dce4ef"><text x="55" y="142">Controllers / Channels</text><text x="55" y="177">▾ Controller A</text><text x="77" y="213">Translate X</text></g>
+<rect x="62" y="229" width="196" height="30" rx="5" fill="#335d9a"/>
+<g font-family="Arial,sans-serif" font-size="15" fill="#dce4ef"><text x="77" y="250">Rotate Y</text><text x="55" y="290">▸ Controller B</text><text x="55" y="323">▸ Controller C</text></g>
+<rect x="268" y="157" width="4" height="170" fill="#465266"/><rect x="268" y="157" width="4" height="44" fill="#93a5bf"/>
+<rect x="303" y="110" width="754" height="258" rx="9" fill="#202732"/>
+<g stroke="#343f50" stroke-width="1"><path d="M325 165H1035M325 215H1035M325 265H1035M325 315H1035M405 130V346M515 130V346M625 130V346M735 130V346M845 130V346M955 130V346"/></g>
+<path d="M345 265C390 265 405 165 465 165S520 315 600 315S670 265 735 265S830 130 900 165S980 265 1025 265" fill="none" stroke="#ff6b80" stroke-width="2.5"/>
+<g fill="#ffcf59" stroke="#ffcf59"><path d="M345 259l6 6-6 6-6-6zM465 159l6 6-6 6-6-6zM600 309l6 6-6 6-6-6zM735 259l6 6-6 6-6-6zM900 159l6 6-6 6-6-6zM1025 259l6 6-6 6-6-6z"/></g>
+<rect x="455" y="151" width="291" height="178" fill="none" stroke="#72b6ff" stroke-width="1.5" stroke-dasharray="6 4"/>
+<g font-family="Arial,sans-serif" font-size="14" fill="#cbd7e9"><text x="325" y="395">Click a channel</text><text x="505" y="395">Drag keys directly</text><text x="710" y="395">R: edit regions</text><text x="900" y="395">Generate local loops</text></g></svg>
